@@ -2,6 +2,10 @@
 
 This interactive dashboard was developed to analyze and visualize data from community-based nutrition training programs. It provides stakeholders with actionable insights based on training cycles, regions, and gender distribution.
 
+A Looker Studio dashboard for visualizing and analyzing training sessions across districts and training cycles.
+
+![Dashboard Preview](dashboard-preview.png)
+
 🔗 **Live Dashboard Preview:** [View the Dashboard](https://lookerstudio.google.com/reporting/6c91d0cf-7bf0-4d0e-9d5a-e056d3b02924)
 
 ---
