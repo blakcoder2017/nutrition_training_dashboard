@@ -4,7 +4,8 @@ This interactive dashboard was developed to analyze and visualize data from comm
 
 A Looker Studio dashboard for visualizing and analyzing training sessions across districts and training cycles.
 
-![Dashboard Preview](dashboard-preview.png)
+![nutrition_dashboard](https://github.com/user-attachments/assets/96512f0b-7914-4c77-b83b-1651ebc17a88)
+
 
 🔗 **Live Dashboard Preview:** [View the Dashboard](https://lookerstudio.google.com/reporting/6c91d0cf-7bf0-4d0e-9d5a-e056d3b02924)
 
